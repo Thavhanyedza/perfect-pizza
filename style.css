@@ -5,7 +5,7 @@ body {
 
 .head {
 text-align: center;
-font-size: 1.5em;
+font-size: 2em;
 }
 
 .pizza {
@@ -14,8 +14,8 @@ padding: 1em;
 margin: 1em;
 margin-bottom: 0.5em;
 border-radius: 0.5em;
-margin-top: 0em;
-/*margin-left: 0em;
+/*margin-top: 0em;
+margin-left: 0em;
 width: 10em;
 display: inline-block;
 min-height: 10em;*/
