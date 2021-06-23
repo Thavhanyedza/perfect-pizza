@@ -3,6 +3,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.head {
+text-align: center;
+font-size: 1.5em;
+}
 
 .pizza {
     border: 1px solid #6A4C93;
@@ -33,6 +37,7 @@ flex: 1;
 
 .contact_us {
 background-color: #6A4C93;
+text-align: center
 }
 
 .special {
